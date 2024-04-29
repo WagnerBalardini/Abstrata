@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aluno/webner/Abstrata/Abstrata.csproj",
+      "projectUniqueName": "/home/aluno/Documentos/Mzr/Abstrata/Abstrata.csproj",
       "projectName": "Abstrata",
-      "projectPath": "/home/aluno/webner/Abstrata/Abstrata.csproj",
+      "projectPath": "/home/aluno/Documentos/Mzr/Abstrata/Abstrata.csproj",
       "packagesPath": "/home/aluno/.nuget/packages/",
-      "outputPath": "/home/aluno/webner/Abstrata/obj/",
+      "outputPath": "/home/aluno/Documentos/Mzr/Abstrata/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/aluno/.nuget/NuGet/NuGet.Config"
